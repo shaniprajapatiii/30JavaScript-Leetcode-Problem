@@ -110,12 +110,47 @@ Update the checklist as you complete each problem!
 JAVASCRIPT-30/
 │
 ├── D1_Closures/
-│   └── CreateHelloWorldFunction.js
+│   ├── CreateHelloWorldFunction.js
+│   ├── Counter.js
+│   ├── ToBeOrNotToBe.js
+│   └── CounterII.js
+│
 ├── D2_BasicArrayTransformations/
+│   ├── ApplyTransformOverEachElementInArray.js
+│   ├── FilterElementsFromArray.js
+│   └── ArrayReduceTransformation.js
+│
 ├── D3_FunctionTransformations/
+│   ├── FunctionComposition.js
+│   ├── ReturnLengthOfArgumentsPassed.js
+│   ├── AllowOneFunctionCall.js
+│   └── Memoize.js
+│
 ├── D4_PromisesAndTime/
+│   ├── AddTwoPromises.js
+│   ├── Sleep.js
+│   ├── TimeoutCancellation.js
+│   ├── IntervalCancellation.js
+│   ├── PromiseTimeLimit.js
+│   ├── CacheWithTimeLimit.js
+│   ├── Debounce.js
+│   └── ExecuteAsynchronousFunctionsInParallel.js
+│
 ├── D5_JSON/
+│   ├── IsObjectEmpty.js
+│   ├── ChunkArray.js
+│   ├── ArrayPrototypeLast.js
+│   ├── GroupBy.js
+│   ├── SortBy.js
+│   ├── JoinTwoArraysByID.js
+│   ├── FlattenDeeplyNestedArray.js
+│   └── CompactObject.js
+│
 ├── D6_Classes/
+│   ├── EventEmitter.js
+│   ├── ArrayWrapper.js
+│   └── CalculatorWithMethodChaining.js
+│
 ├── README.md
 └── ...
 ```
